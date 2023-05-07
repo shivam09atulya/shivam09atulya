@@ -1,7 +1,6 @@
-[![MasterHead](https://giphy.com/gifs/stardust-stardustae-classic-computers-4H3Ii5eLChYul9p7NL)]
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif)]
 <h1 align="center">Hi 👋, I'm Shivam Atulya</h1>
 <h3 align="center">Passionate about coding and learning dev.</h3>
-<img align="right" alt="Coding" width="400" src="https://videoplasty.com/stock-animation/midnight-coding-late-night-session-lofi-animation-28139">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam09atulya&label=Profile%20views&color=0e75b6&style=flat" alt="shivam09atulya" /> </p>
 
