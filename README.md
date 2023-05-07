@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam09atulya&label=Profile%20views&color=0e75b6&style=flat" alt="shivam09atulya" /> </p>
 
 
-- 🌱 I’m currently learning **Express,Firebase**
+- 🌱 I’m currently learning **MERN,React Native**
 
 - 📫 How to reach me **shivamatulya09@gmail.com**
 
