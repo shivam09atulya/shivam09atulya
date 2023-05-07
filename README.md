@@ -1,10 +1,8 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif)]
 <h1 align="center">Hi 👋, I'm Shivam Atulya</h1>
 <h3 align="center">Passionate about coding and learning dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam09atulya&label=Profile%20views&color=0e75b6&style=flat" alt="shivam09atulya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam09atulya" alt="shivam09atulya" /></a> </p>
 
 - 🌱 I’m currently learning **Express,Firebase**
 
@@ -12,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivam_atulya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam_atulya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam_atulya](https://www.linkedin.com/in/shivam-atulya-307a6393/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam_atulya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
